@@ -8,12 +8,11 @@ font-size: 30px;
 color: #2c3e50;
 text-decoration: none;}
 .home {
-	background-image: url("paintings/7.jpg");
+	background-image: url("home.jpg");
 	background-repeat: no-repeat;
 	background-position: 210px 0%;
-	background-size: 600px 750px;
-	height: 760px;
-	width: 850px;
+	height: 750px;
+	width: 1050px;
 	padding-top: 30px;
 	padding-left: 80px;
 	margin: 10px auto 10px auto;}
