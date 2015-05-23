@@ -3,12 +3,8 @@ body {
 	background-color: #EEEEEE;
 	margin-top: 1%;
 	margin-bottom: 0%;}
-a {
-	text-decoration:none;
-	color: inherit}
-
-.home {
-	background-image: url("home.JPG");
+.galleries {
+	background-image: url("header.jpg");
 	background-repeat: no-repeat;
 	background-position: 210px 0%;
 	height: 750px;
@@ -16,10 +12,28 @@ a {
 	padding-top: 30px;
 	padding-left: 80px;
 	margin: 10px auto 10px auto;}
+.thumb {
+	float:left;}
+.gallery {
+	width: 400px;
+	height: 350px;
+	float: left;
+	text-align: center;
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 45px;
+	color: #95a5a6;
+	padding: 25px;}
+.galleryMenu {
+	height: 750px;
+	width: 900px;
+	float:right;}
 h1 {
 	font-family: Arial, Verdana, sans-serif;
 	color: #c0392b;
 	font-size: 65px;}
+a { 
+	text-decoration: none;
+	color:inherit}
 .menu { 
 	font-family: Arial, Verdana, sans-serif;
 	font-size: 30px;
